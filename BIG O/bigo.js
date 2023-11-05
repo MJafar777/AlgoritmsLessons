@@ -2,6 +2,7 @@
 // qancha joy olayotganligini etib turadigan standart hisoblanadi
 
 function myFunc(n) {
+  
   let total = 0;
   for (let i = 0; i < n; i++) {
     console.log(total , "wqioqwuqoiwu" , i)
